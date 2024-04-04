@@ -18,7 +18,7 @@
         config.ini						      -------Experimental parameter configuration
 # pre-trained model
 Res2Net50: https://shanghuagao.oss-cn-beijing.aliyuncs.com/res2net/res2net50_v1b_26w_4s-3cf99910.pth
-TJNet:
+TJNet: https://drive.google.com/file/d/1sxLEPsqOlppmCtJ58VegZ2F1jgYfrRU2/view?usp=sharing
 
 # Dataset
 TrainDataset:https://drive.google.com/file/d/1Kifp7I0n9dlWKXXNIbN7kgyokoRY4Yz7/view?usp=sharing
